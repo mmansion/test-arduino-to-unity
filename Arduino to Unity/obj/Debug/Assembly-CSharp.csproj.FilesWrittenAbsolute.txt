@@ -1,0 +1,17 @@
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/obj/Debug/Assembly-CSharp.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/UnityEngine.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/UnityEditor.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mikhail/Repos/Mikhail/Arduino_to_Unity/Arduino to Unity/Temp/bin/Debug/Mono.Cecil.Mdb.dll
